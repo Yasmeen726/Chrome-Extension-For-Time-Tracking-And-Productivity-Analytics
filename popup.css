@@ -1,0 +1,31 @@
+body {
+    font-family: Arial, sans-serif;
+    width: 300px;
+    padding: 10px;
+  }
+  
+  h1 {
+    font-size: 18px;
+    margin-bottom: 15px;
+  }
+  
+  #time-tracked, #activity-summary {
+    margin-top: 20px;
+  }
+  
+  p {
+    margin: 5px 0;
+  }
+  
+  button {
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #45a049;
+  }
+  
